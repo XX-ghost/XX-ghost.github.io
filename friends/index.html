@@ -558,7 +558,7 @@
                                         </div>
                                     </div>
                                     <div class="friend-button">
-                                        <a href="/diygod.me" target="_blank"
+                                        <a href="https://diygod.me/" target="_blank"
                                             class="button button-glow button-rounded button-caution">
                                             访问Blog
                                         </a>
@@ -579,7 +579,7 @@
                                         </div>
                                     </div>
                                     <div class="friend-button">
-                                        <a href="/moedog.org" target="_blank"
+                                        <a href="https://moedog.org/" target="_blank"
                                             class="button button-glow button-rounded button-caution">
                                             访问Blog
                                         </a>
@@ -617,6 +617,33 @@
             </div>
         </div>
         <div class="card">
+
+            
+            <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
+
+<div class="card gitalk-card" data-aos="fade-up">
+    <div class="comment_headling" style="font-size: 20px; font-weight: 700; position: relative; padding-left: 20px; top: 15px; padding-bottom: 5px;">
+        <i class="fas fa-comments fa-fw" aria-hidden="true"></i>
+        <span>评论</span>
+    </div>
+    <div id="gitalk-container" class="card-content"></div>
+</div>
+
+<script src="/libs/gitalk/gitalk.min.js"></script>
+<script>
+    let gitalk = new Gitalk({
+        clientID: '6a8413b0434fb9661e86',
+        clientSecret: '01151eb6c003388c521a6ffc3d8ad97500523f89',
+        repo: 'XX-ghost.githu.io',
+        owner: 'XX-ghost',
+        admin: "XX-ghost",
+        id: '2020-07-09T17-53-18',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
+
+    gitalk.render('gitalk-container');
+</script>
 
             
 
