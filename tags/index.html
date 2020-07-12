@@ -297,19 +297,19 @@
             <div class="tag-chips">
                 
                 
-                <a href="/tags/%E9%9A%8F%E6%83%B3/" title="随想: 1">
+                <a href="/tags/%E6%BF%80%E6%B4%BB/" title="激活: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="随想" style="background-color: #F9EBEA;">随想
+                            data-tagname="激活" style="background-color: #F9EBEA;">激活
                         <span class="tag-length">1</span>
                     </span>
                 </a>
                 
                 
-                <a href="/tags/%E6%BF%80%E6%B4%BB/" title="激活: 1">
+                <a href="/tags/%E9%9A%8F%E6%83%B3/" title="随想: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="激活" style="background-color: #F5EEF8;">激活
+                            data-tagname="随想" style="background-color: #F5EEF8;">随想
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -338,7 +338,7 @@
 <script type="text/javascript">
     
 
-    $('#tag-wordcloud').jQCloud([{"text":"随想","weight":1,"link":"/tags/随想/"},{"text":"激活","weight":1,"link":"/tags/激活/"}], {
+    $('#tag-wordcloud').jQCloud([{"text":"激活","weight":1,"link":"/tags/激活/"},{"text":"随想","weight":1,"link":"/tags/随想/"}], {
         autoResize: true
     });
 </script>
@@ -581,7 +581,16 @@ $(function () {
     
 
     
-
+	<script type="text/javascript">
+    var OriginTitile = document.title,
+        st;
+    document.addEventListener("visibilitychange", function () {
+        document.hidden ? (document.title = "||o(*�㨌��*)o|�� [������?]||o(*�㨌��*)o|�� [������?]||o(*�㨌��*)o|�� [������?]", clearTimeout(st)) : (document.title =
+            "(????)??��(????)??��(????)??��(????)??��", st = setTimeout(function () {
+                document.title = OriginTitile
+            }, 3e3))
+    })
+</script>
     
 
     

@@ -544,7 +544,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: ["随想","激活"]
+                data: ["激活","随想"]
             }
         ],
         yAxis: [
@@ -874,7 +874,16 @@ $(function () {
     
 
     
-
+	<script type="text/javascript">
+    var OriginTitile = document.title,
+        st;
+    document.addEventListener("visibilitychange", function () {
+        document.hidden ? (document.title = "||o(*�㨌��*)o|�� [������?]||o(*�㨌��*)o|�� [������?]||o(*�㨌��*)o|�� [������?]", clearTimeout(st)) : (document.title =
+            "(????)??��(????)??��(????)??��(????)??��", st = setTimeout(function () {
+                document.title = OriginTitile
+            }, 3e3))
+    })
+</script>
     
 
     

@@ -855,7 +855,16 @@ $(function () {
     
 
     
-
+	<script type="text/javascript">
+    var OriginTitile = document.title,
+        st;
+    document.addEventListener("visibilitychange", function () {
+        document.hidden ? (document.title = "||o(*�㨌��*)o|�� [������?]||o(*�㨌��*)o|�� [������?]||o(*�㨌��*)o|�� [������?]", clearTimeout(st)) : (document.title =
+            "(????)??��(????)??��(????)??��(????)??��", st = setTimeout(function () {
+                document.title = OriginTitile
+            }, 3e3))
+    })
+</script>
     
 
     
