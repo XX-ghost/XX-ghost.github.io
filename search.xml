@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>账号赠送</title>
+      <link href="/zhang-hao-fen-xiang.html"/>
+      <url>/zhang-hao-fen-xiang.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="赠送"><a href="#赠送" class="headerlink" title="赠送"></a>赠送</h1><p>今晚，先给大家赠送1个microsof 365（原office 365） A1 账号，今晚10点将赠送一个microso f365（原office 365） A3 账号！<br>下面是 microsof 365（原office 365） A1 与 microsof 365（原office 365） A3 比较<br>这是赠送的microsof 365（原office 365） A1账号<br> <img src="https://s1.ax1x.com/2020/07/13/UYBtgO.png" alt=""><br>下面是今晚10点赠送的microso f365（原office 365） A3账号<br><img src="https://s1.ax1x.com/2020/07/13/UYygFs.png" alt=""></p><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>注：由于账号是公开的，登录后请务必添加安全认证，并修改密码。<br>下面是修改密码路径：</p><p>1.先登录账号，点击右上角，进入“我的账号”。<br><img src="https://s1.ax1x.com/2020/07/13/UY6gBD.png" alt=""><br>2.下滑，点击修改密码即可<br><img src="https://s1.ax1x.com/2020/07/13/UYcNxP.png" alt=""><br>下面是修改验证路径：</p><p>1.先登录账号，点击右上角，进入“我的账号”。<br><img src="https://s1.ax1x.com/2020/07/13/UY6gBD.png" alt=""><br>2.选择其他安全验证。<br><img src="https://s1.ax1x.com/2020/07/13/UY6lhn.png" alt=""><br>3.在里面可以选择电话验证或移动应用验证。<br><img src="https://s1.ax1x.com/2020/07/13/UYcpvV.png" alt=""></p><h3 id="账号"><a href="#账号" class="headerlink" title="账号"></a>账号</h3><p>A1：<br>账号：<a href="mailto:org2020@mail365.xyz">org2020@mail365.xyz</a></p><p>密码：Xghost123456789</p><p>A3:<br>价值：(费用由微软友情赞助，理论永久使用，关键看使用习惯）</p><p><img src="https://s1.ax1x.com/2020/07/13/UYbr8K.png" alt=""></p><p>账号：（敬请期待） </p><p>密码：（敬请期待）</p><p>账号登陆地址：<a href="http://www.office.com" target="_blank" rel="noopener">官方入口</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 赠送 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>个人组装与编写的Windows与Office激活脚本。</title>
       <link href="/ge-ren-zu-zhuang-de-ji-huo-jiao-ben.html"/>
       <url>/ge-ren-zu-zhuang-de-ji-huo-jiao-ben.html</url>
