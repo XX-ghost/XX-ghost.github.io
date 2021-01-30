@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.xghost.cf/adobe.html</loc>
-    <lastmod>2020-10-18</lastmod>
-  </url>  <url>
-    <loc>https://blog.xghost.cf/proxy.html</loc>
-    <lastmod>2020-08-06</lastmod>
+    <loc>https://blog.xghost.cf/share.html</loc>
+    <lastmod>2021-01-30</lastmod>
   </url>  <url>
     <loc>https://blog.xghost.cf/ge-ren-zu-zhuang-de-ji-huo-jiao-ben.html</loc>
-    <lastmod>2020-07-11</lastmod>
+    <lastmod>2021-01-30</lastmod>
+  </url>  <url>
+    <loc>https://blog.xghost.cf/adobe.html</loc>
+    <lastmod>2021-01-30</lastmod>
   </url>
 </urlset>
